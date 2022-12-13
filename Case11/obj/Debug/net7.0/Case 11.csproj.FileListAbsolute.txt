@@ -1,0 +1,15 @@
+/Users/zaurhakurinov/Desktop/С-22/Case 11/obj/Debug/net7.0/Case 11.csproj.AssemblyReference.cache
+/Users/zaurhakurinov/Desktop/С-22/Case 11/obj/Debug/net7.0/Case 11.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zaurhakurinov/Desktop/С-22/Case 11/obj/Debug/net7.0/Case 11.AssemblyInfoInputs.cache
+/Users/zaurhakurinov/Desktop/С-22/Case 11/obj/Debug/net7.0/Case 11.AssemblyInfo.cs
+/Users/zaurhakurinov/Desktop/С-22/Case 11/obj/Debug/net7.0/Case 11.csproj.CoreCompileInputs.cache
+/Users/zaurhakurinov/Desktop/С-22/Case 11/bin/Debug/net7.0/Case 11
+/Users/zaurhakurinov/Desktop/С-22/Case 11/bin/Debug/net7.0/Case 11.deps.json
+/Users/zaurhakurinov/Desktop/С-22/Case 11/bin/Debug/net7.0/Case 11.runtimeconfig.json
+/Users/zaurhakurinov/Desktop/С-22/Case 11/bin/Debug/net7.0/Case 11.dll
+/Users/zaurhakurinov/Desktop/С-22/Case 11/bin/Debug/net7.0/Case 11.pdb
+/Users/zaurhakurinov/Desktop/С-22/Case 11/obj/Debug/net7.0/Case 11.dll
+/Users/zaurhakurinov/Desktop/С-22/Case 11/obj/Debug/net7.0/refint/Case 11.dll
+/Users/zaurhakurinov/Desktop/С-22/Case 11/obj/Debug/net7.0/Case 11.pdb
+/Users/zaurhakurinov/Desktop/С-22/Case 11/obj/Debug/net7.0/Case 11.genruntimeconfig.cache
+/Users/zaurhakurinov/Desktop/С-22/Case 11/obj/Debug/net7.0/ref/Case 11.dll
